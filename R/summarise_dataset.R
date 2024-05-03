@@ -1,3 +1,16 @@
+#' Summarise a Dataset
+#'
+#' @import tidyverse
+#'
+#' @param tsv_file A string of the path of a tsv file with data to import
+#'
+#' @return A tibble with variables summarising average, min and max
+#' @export
+#'
+#' @examples
+#' \dontrun{
+#' summarise_dataset("/path/to/dataset.tsv")
+#' }
 summarise_dataset <- function(tsv_file) {
   data <- read_tsv(tsv_file)
   summary_table <- tibble()
