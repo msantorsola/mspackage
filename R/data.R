@@ -2,14 +2,14 @@
 #'
 #' @docType data
 #' @keywords datasets
-#' @name example_datasets
+#' @name example_datasets A string of dataset name
 #' @usage data(example_Dataset)
 #'
 #' @format description
 #'
 #' \describe{
-#' \item{variable}(IL6)
-#' \item{description}(measures of ...)
+#' \item{variable}{IL6}
+#' \item{description}{measures of ...}
 #' }
 #'
 #'

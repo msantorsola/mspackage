@@ -5,6 +5,7 @@
 #' @return A plot object from randmly chosen variables
 #' @export
 #'
+#'
 #' @examples
 #' \dontrun{
 #' make_scatterplot("/path/to/dataset.tsv")
