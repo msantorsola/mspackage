@@ -2,6 +2,7 @@
 # mspackage
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/msantorsola/mspackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/msantorsola/mspackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mspackage is to ...
